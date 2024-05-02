@@ -16,7 +16,7 @@
     margin-top: 65px;
     width: 100%;
     height: 374px;
-    background-color: #E1E4FF;
+    background-color: #028ddd;
     border-radius: 27px;
     position: relative;
     margin-bottom: 80px;
@@ -34,7 +34,9 @@
 
 #main .content1 ul li a {
     font-size: 32px;
-    font-weight: 500;
+    font-weight: 900;
+    font-family: var(--fontK);
+    color: var(--mainwhiteColor);
 }
 
 #main .content1 .p ul {
@@ -49,7 +51,9 @@
 
 #main .content1 .p a {
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 900;
+    font-family: var(--fontK);
+    color: var(--mainwhiteColor);
 }
 
 #main .content1 .main-icon {
@@ -72,17 +76,20 @@
     margin-top: 32px;
     width: 125px;
     height: 40px;
-    border: 1px solid black;
+    border: 2px solid #f1E9E9;
     border-radius: 50px;
-    background-color: #E1E4FF;
+    background-color: #028ddd;
     justify-content: center;
     align-items: center;
     display: flex;
     margin: 0 auto;
+    font-family: var(--fontK);
+    font-weight: 900;
+    color: var(--mainwhiteColor);
 }
 
 #main .content1 .main-btn ul li a {
-    font-weight: 500;
+    font-weight: 900;
     font-size: 16px;
 }
 
@@ -92,15 +99,13 @@
 
 #main .content2 .category-title li {
     font-size: 30px;
+    font-family: var(--fontK);
+    font-weight: 900;
 }
-
-#main .content2 .catefory-bar {}
-
-#main .content2 .catefory-bar ul {}
 
 #main .content2 .catefory-bar ul li {
     margin-top: 36px;
-    font-weight: 500;
+    font-weight: 900;
 }
 
 #main .content2 .catefory-bar ul li a {
@@ -108,7 +113,7 @@
     display: inline-block;
     width: 254px;
     height: 82px;
-    background-color: #FFD6FF;
+    background-color: #BEE9E8;
     border-radius: 18px;
     position: relative;
     margin-right: 6px;
@@ -121,22 +126,24 @@
     font-size: 16px;
     position: absolute;
     margin-left: 20px;
+    font-family: var(--fontK);
+    font-weight: 900;
 }
 
 #main .content2 .catefory-bar ul li a:nth-child(2) {
-    background-color: #E7C6FF;
+    background-color: #62B6CB;
 }
 
 #main .content2 .catefory-bar ul li a:nth-child(3) {
-    background-color: #C8B6FF;
+    background-color: #3f84af;
 }
 
 #main .content2 .catefory-bar ul li a:nth-child(4) {
-    background-color: #B8C0FF;
+    background-color: #CAE9FF;
 }
 
 #main .content2 .catefory-bar ul li a:nth-child(5) {
-    background-color: #BBD0FF;
+    background-color: #5FA8D3;
 }
 
 #main .content2 .catefory-bar ul li img {
@@ -153,7 +160,8 @@
 
 #main .content3 .recommend-title li {
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 900;
+    font-family: var(--fontK);
 }
 
 #main .content3 .recommend-title a {
@@ -178,7 +186,7 @@
     display: inline-block;
     width: 254px;
     height: 277px;
-    background-color: #CDB4DB;
+    background-color: #576490;
     border-radius: 18px;
     position: relative;
     margin-right: 6px;
@@ -192,22 +200,24 @@
     text-align: center;
     display: flex;
     justify-content: center;
+    font-family: var(--fontK);
+    font-weight: 900;
 }
 
 #main .content3 .apibanner ul li a:nth-child(2) {
-    background-color: #FFC8DD;
+    background-color: #C9CAD9;
 }
 
 #main .content3 .apibanner ul li a:nth-child(3) {
-    background-color: #FFAFCC;
+    background-color: #A3BCF9;
 }
 
 #main .content3 .apibanner ul li a:nth-child(4) {
-    background-color: #BDE0FE;
+    background-color: #7796CB;
 }
 
 #main .content3 .apibanner ul li a:nth-child(5) {
-    background-color: #A2D2FF;
+    background-color: #576490;
 }
 
 #main .content3 .apibanner ul li img {
