@@ -101,6 +101,16 @@
     border-radius: 50%;
     background-color: #dedede;
     line-height: 1;
+    display: none;
+}
+
+#controller {
+    margin-right: 30px;
+}
+
+#controller a {
+    margin-left: 30px;
+    font-family: var(--fontT);
 }
 
 /* header end */
