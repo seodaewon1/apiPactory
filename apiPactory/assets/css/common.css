@@ -7,6 +7,7 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 10px;
+    font-family: var(--fontI);
 }
 
 #logos {
@@ -28,15 +29,15 @@
 
 #title h2 a {
     font-size: 1.125rem;
-    font-weight: 700;
-    font-family: var(--fontT);
+    font-weight: 500;
 }
 
 #menu {
     height: 100%;
     display: flex;
     align-items: center;
-
+    font-weight: 500;
+    font-family: var(--fontI);
 }
 
 #menu ul {
@@ -49,8 +50,6 @@
 
 #menu ul>li>a {
     font-size: 1rem;
-    font-weight: 600;
-    font-family: var(--fontT);
 }
 
 #controller {
@@ -76,8 +75,6 @@
     height: 100%;
     background-color: #eee;
     border: 0;
-    font-family: var(--fontT);
-    font-weight: 400;
 }
 
 #searchBar .search-input:focus {
@@ -101,16 +98,6 @@
     border-radius: 50%;
     background-color: #dedede;
     line-height: 1;
-    display: none;
-}
-
-#controller {
-    margin-right: 30px;
-}
-
-#controller a {
-    margin-left: 30px;
-    font-family: var(--fontT);
 }
 
 /* header end */
@@ -166,8 +153,7 @@
 }
 
 #ftitle h2 a {
-    font-weight: 700;
-    font-family: var(--fontT);
+    font-weight: 800;
 }
 
 #contact {
@@ -194,8 +180,7 @@
 
 #contact ul li a {
     display: inline-block;
-    font-family: var(--fontT);
-    font-weight: 600;
+    font-weight: 650;
     line-height: 2;
 }
 
