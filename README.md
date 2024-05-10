@@ -82,7 +82,7 @@ __chrome web store 화면__
 사용자에게 친화적이면서도 간단한 UI를 참고하여 apiPactory의 디자인을 업그레이드할 수 있다고 판단하여 레퍼런스로 삼았습니다.   
 
 
-[프로젝트 과정]
+[프로젝트 과정]   
 ![img_2227_720](https://github.com/skadbstj12/class2024/assets/163810643/0b4a43a4-0a10-4372-a9c9-0c05aaa98f96)
 ![img_2226_720](https://github.com/skadbstj12/class2024/assets/163810643/ec443c1e-2168-4465-92c2-99db6a967ceb)
 ![img_2230_720](https://github.com/skadbstj12/class2024/assets/163810643/cef28229-d4c7-4786-85cc-cd1c366589db)
