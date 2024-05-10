@@ -81,6 +81,8 @@ __chrome web store 화면__
 이번에 새롭게 리뉴얼한 크롬 웹스토어의 디자인은 apiPactory가 추구하는 사이트의 방향성과 일치하는 부분이 많다고 생각했습니다.   
 사용자에게 친화적이면서도 간단한 UI를 참고하여 apiPactory의 디자인을 업그레이드할 수 있다고 판단하여 레퍼런스로 삼았습니다.   
 
+
+[프로젝트 과정]
 ![img_2227_720](https://github.com/skadbstj12/class2024/assets/163810643/0b4a43a4-0a10-4372-a9c9-0c05aaa98f96)
 ![img_2230_720](https://github.com/skadbstj12/class2024/assets/163810643/cef28229-d4c7-4786-85cc-cd1c366589db)
 ![img_2229_720](https://github.com/skadbstj12/class2024/assets/163810643/be22279a-f1b2-46e3-a13e-7e871ae23ace)
