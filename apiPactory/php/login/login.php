@@ -22,7 +22,7 @@
             <div id="logos">
                 <div id="logo"></div>
                 <div id="title">
-                    <h2><a href="#">apiPactory</a></h2>
+                    <h2><a href="http://meowon1019.dothome.co.kr/">apiPactory</a></h2>
                 </div>
                 <div id="menu">
                     <ul>
@@ -40,17 +40,19 @@
                 <div id="profile"></div>
             </div>
         </header>
+
+        
         <div class="wrapper fadeInDown">
             <div id="formContent">
                 <!-- Tabs Titles -->             
-                <h2 class="underlineHover"> 로그인 </h2>
+                <h2 class="underlineHover" class="active"> 로그인 </h2>
                 <h2 class="underlineHover"> 회원가입 </h2>
 
               
 
                 <!-- Icon -->
                 <div class="fadeIn first">
-                    <img src="../../../assets/img/logo2.png" id="icon" alt="User Icon">
+                    <img src="../../../assets/img/logo2.png" id="icon" alt="User Icon" />
                 </div>
 
                 <!-- Login Form -->
@@ -60,32 +62,30 @@
                     <input type="submit" value="로그인">
                 </form>
 
-                <form id="signInForm" style="display: none;">
+                <form id="signInForm">
                     <div class="Check">
-                        <input type="text" id="youID" name="youID">
-                        <label for="youID">아이디</label>
+                        <input type="text" id="youID"  name="youID">
+                        <label for="youID" >아이디</label>
                         <div class="btn" onclick="IDChecking()">아이디 중복검사</div>
                     </div>
                     <div class="Check">
-                        <input type="text" id="youName" name="youName">
-                        <label for="youName">이름</label>
+                        <input type="text" id="youName"  name="youName">
+                        <label for="youName" >이름</label>
                     </div>
                     <div class="Check">
-                        <input type="password" id="youPass" name="youPass">
-                        <label for="youName">비밀번호</label>
+                        <input type="password" id="youPass"  name="youPass">
+                        <label for="youName" >비밀번호</label>
                     </div>
                     <div class="Check">
-                        <input type="password" id="youPassC" name="youPassC">
-                        <label for="youName">확인</label>
+                        <input type="password" id="youPassC"  name="youPassC">
+                        <label for="youName" >확인</label>
                     </div>
                     <div class="Check">
-                        <input type="text" id="youPhone" name="youPhone">
-                        <!-- <label for="youName">전화번호</label> -->
+                        <input type="text" id="youPhone"  name="youPhone">
+                        <label for="youName" >전화번호</label>
                     </div>
-                    <input type="submit" value="다음">
+                    <input type="submit"value="다음">
                 </form>
-
-
 
                 <!-- Remind Passowrd -->
                 <div id="formFooter">
@@ -138,4 +138,5 @@
             });
     </script>
 </body>
+
 </html>
