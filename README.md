@@ -84,9 +84,9 @@ __chrome web store 화면__
 
 [프로젝트 과정]
 ![img_2227_720](https://github.com/skadbstj12/class2024/assets/163810643/0b4a43a4-0a10-4372-a9c9-0c05aaa98f96)
+![img_2226_720](https://github.com/skadbstj12/class2024/assets/163810643/ec443c1e-2168-4465-92c2-99db6a967ceb)
 ![img_2230_720](https://github.com/skadbstj12/class2024/assets/163810643/cef28229-d4c7-4786-85cc-cd1c366589db)
 ![img_2229_720](https://github.com/skadbstj12/class2024/assets/163810643/be22279a-f1b2-46e3-a13e-7e871ae23ace)
-![img_2226_720](https://github.com/skadbstj12/class2024/assets/163810643/ec443c1e-2168-4465-92c2-99db6a967ceb)
 ![img_2228_720](https://github.com/skadbstj12/class2024/assets/163810643/28019bf6-c27e-4715-8798-c2f89ea1d81f)   
 
 
