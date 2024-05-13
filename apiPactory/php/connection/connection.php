@@ -13,6 +13,4 @@ session_start();
 if($connection -> connect_error) {
     echo "Connect Failed" . $connection -> connect_error;
 }
-
 ?>
-
