@@ -34,6 +34,7 @@
                 <i class="fas fa-search"></i>
                 <input type="text" placeholder="검색어를 입력하세요" class="search-input">
             </div>
+<<<<<<< HEAD
             <?php
     if(isset($_SESSION['userID'])) {
 ?>
@@ -44,6 +45,18 @@
             <a href="php/login/login.php">로그인</a>
             <a href="#">회원가입</a>
             <?php
+=======
+<?php
+    if(isset($_SESSION['userID'])) {
+?>            
+        <a href="php/login/logOutAction.php">로그아웃</a>
+<?php
+    }else {
+?>
+        <a href="php/login/login.php">로그인</a>
+        <a href="#">회원가입</a>
+<?php
+>>>>>>> 065b7376751f40b0f49dd2c86d83b9422be05d97
     }
 ?>
 
@@ -83,6 +96,7 @@
                 <div class="category-title">
                     <li>상위 카테고리</li>
                 </div>
+<<<<<<< HEAD
                 <div class="category-bar">
                     <ul>
                         <li>
@@ -91,6 +105,16 @@
                             <a href="#"><img src="assets/img/category-icon3.png" alt="이미지"><span>지도</span></a>
                             <a href="#"><img src="assets/img/category-icon4.png" alt="이미지"><span>은행</span></a>
                             <a href="#"><img src="assets/img/category-icon5.png" alt="이미지"><span>날씨</span></a>
+=======
+                <div class="catefory-bar">
+                    <ul>
+                        <li>
+                            <a href="#"><span>쇼핑</span></a>
+                            <a href="#"><span>뉴스</span></a>
+                            <a href="#"><span>지도</span></a>
+                            <a href="#"><span>은행</span></a>
+                            <a href="#"><span>날씨</span></a>
+>>>>>>> 065b7376751f40b0f49dd2c86d83b9422be05d97
                         </li>
                     </ul>
                 </div>
@@ -103,11 +127,19 @@
                 <div class="apibanner">
                     <ul>
                         <li>
+<<<<<<< HEAD
                             <a href="#"><img src="assets/img/notice1.jpg" alt="이미지"><span>Maps API</span></a>
                             <a href="#"><img src="assets/img/notice2.jpg" alt="이미지"><span>News API</span></a>
                             <a href="#"><img src="assets/img/notice3.jpg" alt="이미지"><span>Bank API</span></a>
                             <a href="#"><img src="assets/img/notice4.jpg" alt="이미지"><span>Weather API</span></a>
                             <a href="#"><img src="assets/img/notice5.jpg" alt="이미지"><span>Shppping APi</span></a>
+=======
+                            <a href="#"><img src="assets/img/notice1.jpg" alt="이미지"><span>구글지도 api</span></a>
+                            <a href="#"><img src="assets/img/notice2.jpg" alt="이미지"><span>뉴스 api</span></a>
+                            <a href="#"><img src="assets/img/notice3.jpg" alt="이미지"><span>은행 api</span></a>
+                            <a href="#"><img src="assets/img/notice4.jpg" alt="이미지"><span>기상청 api</span></a>
+                            <a href="#"><img src="assets/img/notice5.jpg" alt="이미지"><span>쇼핑 api</span></a>
+>>>>>>> 065b7376751f40b0f49dd2c86d83b9422be05d97
                         </li>
                     </ul>
                 </div>
